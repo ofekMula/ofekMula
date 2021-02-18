@@ -9,6 +9,8 @@ Currently pursuing my Computer Science degree at Tel Aviv university.
 </a>
 
 
+<script src="https://github.com/ofekMula/ofekMula/blob/main/ofekmula-2020.stl"></script>
+
 <!--
 **ofekMula/ofekMula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

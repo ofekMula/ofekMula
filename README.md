@@ -2,8 +2,6 @@
 
 Hi, I'm Ofek Mula an enthusiastic software engineer.
 
-<script src="https://embed.github.com/view/3d/ofekMula/ofekMula/blob/main/ofekmula-2020.stl"></script>
-
 Currently pursuing my Computer Science degree at Tel Aviv university.
 
 <a href="https://github.com/OfekMula/ofekMula">

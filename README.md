@@ -9,8 +9,25 @@ Currently pursuing my Computer Science degree at Tel Aviv university.
 </a>
 
 
-https://skyline.github.com/ofekmula/2020
+### 🛠 &nbsp;Tech Stack
 
+- 🌐 &nbsp;
+  ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C)
+  ![C++]( https://img.shields.io/badge/-C++-333333?style=flat&logo=C++)
+  ![Python](https://img.shields.io/badge/-python-333333?style=flat&logo=Python)
+  ![Java](https://img.shields.io/badge/-java-333333?style=flat&logo=java)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![MYSQL](https://img.shields.io/badge/-mysql-333333?style=flat&logo=mysql)
+- 🔧 &nbsp;
+  ![Clion](https://img.shields.io/badge/-clion-333333?style=flat&logo=clion)
+  ![Visual studio](https://img.shields.io/badge/-Visualstudio-333333?style=flat&logo=Visualstudio)
+  ![Pycharm](https://img.shields.io/badge/-Pycharm-333333?style=flat&logo=Visualstudio)
+  ![Android Studio]( https://img.shields.io/badge/-android%20studio-333333?style=flat&logo=android%20studio)
+  ![eclipse]( https://img.shields.io/badge/-eclipse-333333?style=flat&logo=eclipse)
+  
+ ## Interesting fact
+ - Live and breath fitness.
 
 <!--
 **ofekMula/ofekMula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

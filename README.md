@@ -26,7 +26,17 @@ Currently pursuing my Computer Science degree at Tel Aviv university.
   ![Android Studio]( https://img.shields.io/badge/-android%20studio-333333?style=flat&logo=android%20studio)
   ![eclipse]( https://img.shields.io/badge/-eclipse-333333?style=flat&logo=eclipse)
   
- ## Interesting fact
+
+###  🤝🏻 &nbsp;Soft Skills
+- Analytic
+- Team player
+- Self driven
+- Self Learner
+- Determined
+- Committed
+
+
+### Interesting fact
  - Live and breath fitness.
 
 <!--

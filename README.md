@@ -36,7 +36,7 @@ Currently pursuing my Computer Science degree at Tel Aviv university.
 - Committed
 
 
-### Interesting fact
+###  👋 Interesting fact
  - Live and breath fitness.
 
 <!--

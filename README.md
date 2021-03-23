@@ -38,7 +38,8 @@ Currently pursuing my Computer Science degree at Tel Aviv university.
 
 ###  👋 Interesting fact
  - Live and breath fitness.
-
+ - Read books.
+ - Play and watch basketball (NBA,Euroleague). 
 <!--
 **ofekMula/ofekMula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

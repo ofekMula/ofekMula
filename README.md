@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-Hi, I'm Ofek Mula, an enthusiastic software engineer and a recent computer science graduate from Tel Aviv university,.
+Hi, I'm Ofek Mula, an enthusiastic software engineer.
+
+Graduated with B.sc. in computer science from Tel Aviv university.
 
 <a href="https://github.com/OfekMula/ofekMula">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ofekMula&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ofek Mula's GitHub Stats" />
